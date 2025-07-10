@@ -27,7 +27,7 @@
             android:layout_width="270dp"
             android:layout_height="172dp"
             android:layout_gravity="center"
-            android:src="@mipmap/imgLogo" />
+            android:src="@mipmap/imglogo" />
 
         <TextView
             android:layout_width="match_parent"

@@ -10,6 +10,8 @@
 
     <string name="num1">Num 1</string>
     <string name="num2">Num 2</string>
+    <string name="valor1">Primer Valor</string>
+    <string name="valor2">Segundo Valor</string>"
     <string name="res">Resultado</string>
     <string name="suma">+</string>
     <string name="resta">-</string>
@@ -20,5 +22,9 @@
     <string name="btnSalir">Salir</string>
     <string name="btnLimpiar">Limpiar</string>
     <string name="btnRegresar">Regresar</string>
+
+    <string name="error_campos_vacios">Error: Algun/os campo/s está/n está vacío/s</string>"
+    <string name="error_formato_numero">Error: Ingrese un número válido</string>
+    <string name="error_division_cero">Error: No se puede dividir entre cero</string>
 
 </resources>
