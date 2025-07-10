@@ -1,8 +1,8 @@
 package com.example.examenunidad01rec
 
 class Calculadora {
-    public var num1: Float = 0.0f
-    public var num2: Float = 0.0f
+    private var num1: Float = 0.0f
+    private var num2: Float = 0.0f
 
     public fun suma(): Float {
         return num1 + num2
